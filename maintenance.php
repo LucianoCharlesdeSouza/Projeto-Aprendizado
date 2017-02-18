@@ -9,7 +9,7 @@
 
 .maintenance_content .maintenance_box{
     display: block;
-    width: 600px;
+    width: 300px;
     margin: 10% auto;
     max-width: 90%;
     background: #fff;
@@ -30,8 +30,8 @@
 <article class="maintenance_content">
     <div class="maintenance_box">
         <h1>Desculpe, estamos em manutenção!</h1>
-        <p>Neste momento estamos trabalhando para melhorar ainda mais sua experiência em nosso site.</p>
+        <p>Neste momento estamos trabalhando para adquirir experiência!</p>
         <p><b>Por favor, volte em algumas horas para conferir as novidades!</b></p>
-        <em>Atenciosamente <?= SITE_NAME; ?></em>
+        <em>Atenciosamente Equipe Projeto Aprendizado.</em>
     </div>
 </article>
